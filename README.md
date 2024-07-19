@@ -32,8 +32,8 @@ Ensure you have the following software installed on your system:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/cpp-parsers-first-follow.git
-    cd cpp-parsers-first-follow
+    git cloner https://github.com/kaushiktarun05/parser-const
+    cd parser-const
     ```
 
 2. (Optional) Build the project using CMake:
@@ -50,5 +50,5 @@ Ensure you have the following software installed on your system:
 You can compile and run the individual C++ files for specific parsers or FIRST/FOLLOW set computations. Here is an example of how to compile and run a C++ file:
 
 ```sh
-g++ -o parser parsers/your_parser.cpp
+g++ -o parser parsers/LRParser.cpp
 ./parser
