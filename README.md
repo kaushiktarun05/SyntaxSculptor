@@ -9,11 +9,6 @@ Welcome to the C++ Parsers and FIRST/FOLLOW Sets repository! This repository con
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
